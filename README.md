@@ -158,3 +158,69 @@ console.log(perimeter);
 / 48  
 
 ---
+
+## 8. Area of Rectangle
+
+**Question:**  
+Find out and display the area of a rectangle of sides 45 and 76 respectively.  
+Declare variables `length`, `width`, and `area` and assign the relevant values to them.  
+Output the value of variable `area`.  
+
+**Code:**
+```javascript
+let length = 45;
+let width = 76;
+
+let area = length * width;
+
+console.log(area);
+```
+
+**Output:**  
+/ 3420  
+
+---
+
+## 9. Area of Circle (Float datatype)
+
+**Question:**  
+Find the area of a circle whose radius is 8.9. Take `pi = 3.14`.  
+Declare variables `radius`, `pi`, and `area` and assign the relevant values to them.  
+Output the variable `area`.  
+
+Formula: `area = pi * radius * radius`
+
+**Code:**
+```javascript
+let radius = 8.9;
+let pi = 3.14;
+
+let area = pi * radius * radius;
+
+console.log(area);
+```
+
+**Output:**  
+/ 248.71940000000004  
+
+---
+
+## 10. String Datatype
+
+**Question:**  
+- Declare two variables `a` and `b`.  
+- Assign `"Learning "` to `a` and `"is fun!"` to `b`.  
+- Display the sentence `"Learning is fun!"` using variables `a` and `b` in a single line.  
+
+**Code:**
+```javascript
+let a = "Learning ";
+let b = "is fun!";
+
+console.log(a + b);
+```
+
+**Output:**  
+/ Learning is fun!  
+
+---
