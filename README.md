@@ -1,4 +1,4 @@
-# Learn JavaScript – A Practical, Challenge‑First Roadmap
+# Learn JavaScript – A Practical, Challenge‑First Roadmap:
 
 This README gives you a hands‑on path to learn modern JavaScript through the **best free + high‑quality resources** and **curated coding challenges**. It’s split into stages so you can jump in at your current level.
 
